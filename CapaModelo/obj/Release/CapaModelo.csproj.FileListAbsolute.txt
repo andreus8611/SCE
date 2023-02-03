@@ -1,0 +1,5 @@
+D:\03.Sistema Control Escolar\ProyectoWeb\CapaModelo\bin\Release\CapaModelo.dll
+D:\03.Sistema Control Escolar\ProyectoWeb\CapaModelo\bin\Release\CapaModelo.pdb
+D:\03.Sistema Control Escolar\ProyectoWeb\CapaModelo\obj\Release\CapaModelo.csproj.CoreCompileInputs.cache
+D:\03.Sistema Control Escolar\ProyectoWeb\CapaModelo\obj\Release\CapaModelo.dll
+D:\03.Sistema Control Escolar\ProyectoWeb\CapaModelo\obj\Release\CapaModelo.pdb
